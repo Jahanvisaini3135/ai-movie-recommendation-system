@@ -1,0 +1,10 @@
+{
+  "n_movies": 1000,
+  "use_svd": true,
+  "n_components": null,
+  "matrix_shape": [
+    1000,
+    1000
+  ],
+  "dataset": "TMDB 2023 (930K movies)"
+}
