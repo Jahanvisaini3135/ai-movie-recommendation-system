@@ -54,11 +54,9 @@ Thumbs.db
 htmlcov/
 .pytest_cache/
 
-# Deployment
-*.pyc
+# Large ML model files
+models/similarity_matrix.npy
+models/similarity_matrix.npz
+models/svd_model.pkl
+models/tfidf_vectorizer.pkl
 *.csv
-*.pkl
-*.json
-*.npy
-*.parquet
-*.npz
